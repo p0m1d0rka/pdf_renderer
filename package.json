@@ -1,12 +1,12 @@
 {
     "name": "pdf_rendrer",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Render pdf by headless chrome",
     "author": "vladimir elizarov",
     "private": true,
     "scripts": {},
     "dependencies": {
         "express": "^4.17.1",
-        "puppeteer": "^2.0.0"
+        "puppeteer": "^9.1.1"
     }
 }
